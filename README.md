@@ -4,8 +4,10 @@
  ## Pré requisitos:
  
  - Python
- - jupyter (via pip)
- - jupyter-book (via pip)
+ - jupyter
+ - jupyter-book
+ - matplotlib
+ - numpy
  
  
  ## Servindo localmente
@@ -13,6 +15,7 @@
  ```
  git clone https://github.com/pedrohlopes/GPA-wiki.git
  cd GPA-wiki/
+ pip install -r requirements.txt
  jupyter-book build .
  python -m http.server
  ```
