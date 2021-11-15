@@ -1,7 +1,7 @@
 # GPA-wiki
  Página para divulgação de conteúdo entre o grupo.
 
- ## Pré requisitos:
+ ## Pré requisitos
  
  - Python
  - jupyter
@@ -17,6 +17,7 @@
  cd GPA-wiki/
  pip install -r requirements.txt
  jupyter-book build .
+ cd _build/html/
  python -m http.server
  ```
- Depois, basta acessar o endereço que aparece na saída do comando. Default: http://localhost:8000.
+ Depois, basta acessar o endereço que aparece na saída do comando + 'intro.html'. Default: http://localhost:8000/intro.html.
