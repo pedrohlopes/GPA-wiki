@@ -1,0 +1,26 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: Geral
+    chapters:
+
+      - file: my_content
+      - file: markdown
+      
+  - caption: Começando com o cluster SMT
+    chapters:
+      - file: tutorial_jupyter_smt
+
+
+  - caption: Processamento de sinais de áudio
+    chapters:
+      - file: notebooks
+
+
+  - caption: Ferramentas de aprendizado de máquina aplicadas à audio
+    chapters:
+      - file: other_content
+
