@@ -22,7 +22,7 @@
  ```
  Depois, basta acessar o endereço que aparece na saída do comando + 'intro.html'. Default: http://localhost:8000/intro.html.
 
- Obs.: Para atualizar o conteúdo no navegador, atualizar o build rodando `jupyter-book build .` .
+ Obs.: Para atualizar o conteúdo no navegador, atualizar o build rodando `jupyter-book build .` na pasta raiz.
 
 
 ## Documentação
