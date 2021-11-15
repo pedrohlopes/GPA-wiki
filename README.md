@@ -20,3 +20,7 @@
  python -m http.server
  ```
  Depois, basta acessar o endereço que aparece na saída do comando. Default: http://localhost:8000.
+
+## Documentação
+Acessar a página do tutorial de ínicio com o jupyter books: https://jupyterbook.org/start/your-first-book.html
+
