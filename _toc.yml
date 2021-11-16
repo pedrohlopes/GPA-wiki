@@ -20,7 +20,7 @@ parts:
       - file: notebooks
 
 
-  - caption: Ferramentas de aprendizado de máquina aplicadas à audio
+  - caption: Ferramentas de aprendizado de máquina aplicadas a áudio
     chapters:
       - file: other_content
 
